@@ -202,7 +202,7 @@ class XSSerOptions(optparse.OptionParser):
             print("                                \\ \\   LulZzzz!    /\                          ")
             print("Project site:","                && \\ \\            /\())\          %  %        ")
             print("https://xsser.03c8.net       &&&& \\_\\          (())\\))  %   %        %       ") 
-            print("                              \/ ( \033[1;31m@\033[1;m.\033[1;31m@\033[1;m)      * //\\//\\%                 %  %")
+            print("                              \/ ( \033[1;31m@\033[1;m.\033[1;31m@\033[0;m)      * //\\//\\%                 %  %")
             print("                              || == < ==   * * \\//))//)  BBzzzzz!              ")
             print("Forum:                        ||]~~/ \~~[ *    (())//))                         ")
             print("irc.freenode.net -> #xsser    ||   (')          \/())/                          ")
